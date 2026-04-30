@@ -11,17 +11,26 @@ But we can change the value of a variable without changing its name, making it d
 
 Section 2 - Syntax
 
-Declaration: 
+Declaration:
+
+variabletype variableName;
+
 int a;
+
 int c;
 
 Initialization:
+
+variableName = value;
+
 a = 3;
 
 Declaration and initilization:
+
 int b = 5;
 
 Example of calculation:
+
 c = a + b;
 
 Section 3 - Eureka moment
