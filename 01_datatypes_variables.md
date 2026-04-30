@@ -11,7 +11,7 @@ But we can change the value of a variable without changing its name, making it d
 
 Section 2 - Syntax
 
-Declaration:
+Declaration:\n 
 int a;
 int c;
 
