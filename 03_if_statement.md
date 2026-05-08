@@ -9,17 +9,28 @@ You can also add an "else" block if you want to define what the program will do 
 
 Section 2 - Syntax
 
-if (condition 1)  --> if condition 1 is met, the program executes the code block 1
+if (condition 1) // if condition 1 is met, the program executes the code block 1
+
 {
+
 // code block 1
+
 }
-else if (condition 2) --> if condition 2 is met AND not condition 1, executes the code block 2
+
+else if (condition 2) // if condition 2 is met AND not condition 1, executes the code block 2
+
 {
+
 // code block 2
+
 }
-else --> if neither condition 1 or 2 are met, executes block 3. Note that we don't necessarily need the "else" block.
+
+else // if neither condition 1 or 2 are met, executes block 3. Note that we don't necessarily need the "else" block.
+
 {
+
 // code block 3
+
 }
 
 Example: 
@@ -27,12 +38,19 @@ Example:
 Let's consider an integer "num".
 
 if (num > 0)
+
 {
+
 Console.WriteLine("This is a positive number!");
+
 }
+
 else 
+
 {
+
 Console.WriteLine("This is not a positive number!");
+
 }
 
 Section 3 - Eureka moment
