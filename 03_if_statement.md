@@ -59,7 +59,7 @@ What was a bit confusing at first was building complex boolean expressions as co
 
 Section 4 - Common beginner mistake
 
-
+I think one of the beginner mistake I use to make was simply using the wrong relational operator (sometimes forgetting the = with > or <) in my condition, resulting on a logical error that sometimes took time for me to see since it still compiled but didn't behave as it should.
 
 Section 5 - Research references
 
