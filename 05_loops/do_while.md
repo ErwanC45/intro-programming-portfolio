@@ -23,6 +23,7 @@ do
 {
 
   Console.WriteLine("Please enter a number between 1 and 9");
+  
   ans = Convert.ToInt32 (Console.ReadLine());
 
 }
