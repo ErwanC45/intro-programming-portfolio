@@ -55,11 +55,14 @@ Console.WriteLine("This is not a positive number!");
 
 Section 3 - Eureka moment
 
-
+What was a bit confusing at first was building complex boolean expressions as conditions, it was a bit hard to make sure I use the right relational operator and the right logical operator to build the proper condition for the program. The exercise 8 from Assignment 3 with the seasons was challenging (hard to determine and combine the seasons boundaries) but also helped a lot with the complex booleans.
 
 Section 4 - Common beginner mistake
 
 
+
 Section 5 - Research references
+
+https://www.w3schools.com/cs/cs_conditions.php
 
 https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements
